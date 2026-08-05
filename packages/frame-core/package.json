@@ -24,7 +24,7 @@
   ],
   "devDependencies": {
     "@farcaster/tsconfig": "workspace:*",
-    "@vitest/coverage-v8": "^2.1.8",
+    "@vitest/coverage-v8": "^4.0.0",
     "typescript": "^5.8.3",
     "vitest": "^2.1.9"
   },
