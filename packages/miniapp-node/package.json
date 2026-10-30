@@ -36,7 +36,7 @@
     "@farcaster/miniapp-core": "workspace:*",
     "@noble/curves": "^1.7.0",
     "ox": "^0.14.0",
-    "zod": "^4.0.0"
+    "zod": "^4.6.6"
   },
   "publishConfig": {
     "access": "public"
